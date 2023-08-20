@@ -1,0 +1,19 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"mobile",
+            "price":12999
+        },
+        {
+            "id":2,
+            "name":"Television",
+            "price":19999
+        },
+        {
+            "id":1,
+            "name":"Ac",
+            "price":25999
+        }
+    ]
+}

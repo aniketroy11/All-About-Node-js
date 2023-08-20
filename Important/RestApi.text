@@ -1,0 +1,9 @@
+Api-
+an api is an application progrmming interface
+it is a set of rules that allow programs to talk to each 
+other.
+
+rest- rest determines how the api looks like 
+it stands for representational state transfer.
+it is set of rules that developers follow when
+they create their apis.nowdays all apis are rest apis 

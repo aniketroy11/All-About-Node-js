@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "firstname":"Aniket",
+        "lastname":"kumar"
+    },
+    {
+        "id":2,
+        "firstname":"Dev",
+        "lastname":"kumar"
+    },
+    {
+        "id":3,
+        "firstname":"Prince",
+        "lastname":"kumar"
+    },
+    {
+        "id":4,
+        "firstname":"Ayush",
+        "lastname":"kumar"
+    }
+]
